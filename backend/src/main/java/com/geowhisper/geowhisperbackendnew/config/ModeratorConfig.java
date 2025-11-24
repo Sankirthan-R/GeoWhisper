@@ -18,7 +18,8 @@ public class ModeratorConfig {
             "ashton_mathias",
             "suvidha_karkera",
             "nikki",
-            "sankirthan_rao"
+            "sankirthan_rao",
+            "nishitha_shetty"
             
     // Add more moderator usernames here
     ));
