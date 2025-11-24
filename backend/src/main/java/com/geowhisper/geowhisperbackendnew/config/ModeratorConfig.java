@@ -20,6 +20,7 @@ public class ModeratorConfig {
             "nikki",
             "sankirthan_rao",
             "nishitha_shetty"
+            "aarna_sadotra"
             
     // Add more moderator usernames here
     ));

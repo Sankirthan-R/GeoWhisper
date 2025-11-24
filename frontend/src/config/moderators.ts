@@ -9,7 +9,8 @@ export const MODERATOR_LIST = [
   'suvidha_karkera',
   'nikki',
   'sankirthan_rao',
-  'nishitha_shetty'
+  'nishitha_shetty',
+  'aarna_sadotra'
   // Add more moderator usernames here
 ];
 
